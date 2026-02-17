@@ -1,4 +1,18 @@
+url: "https://kyl6092.github.io"
+baseurl: "/KYL-CODE-GROUND"
 title: KYL-Code-Ground
-description: My coding experiences and projects.
+email: kuoyu6092@gmail.com
+description: >-
+  My coding experiences and projects.
+github_username: kyl6092 
 theme: minima
+plugins:
+  - jekyll-feed
 timezone: Asia/Taipei
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
