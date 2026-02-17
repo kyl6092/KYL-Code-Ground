@@ -5,7 +5,7 @@ email: kuoyu6092@gmail.com
 description: >-
   My coding experiences and projects.
 github_username: kyl6092 
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 timezone: Asia/Taipei
