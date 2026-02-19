@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-![img](img/)
+![img](img/home_bg.png)
 ---
 
 ## Welcome to my personal website !
